@@ -32,3 +32,4 @@ Huh. Clarification below that vendors are
 
 ## TODO
 * Review detailed rules on responsibilites for API Users vs API Technology Provider
+* "Authenticity verification and registration" -- states rules for verification must be the same "permitted to institute a process to verify the authenticity of API Users so long as such process is objective and the same for all API Users". Presumably this does *not* apply to Patients, even though they may be "API Users"
